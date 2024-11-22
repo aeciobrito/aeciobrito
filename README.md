@@ -9,7 +9,6 @@ I'm a passionate **Software Developer** from Brazil, working with a diverse rang
 - 🎮 Hobbyist gamer, chess player, and guitarist
 - 💡 Currently working on projects in web development and software architecture
 - 🎓 Teaching programming at Senac
-- 📈 Exploring stock prediction systems and indie game development
 
 ---
 
@@ -31,8 +30,5 @@ I'm a passionate **Software Developer** from Brazil, working with a diverse rang
 ## 🌱 Current Focus
 
 I'm working on:
-- 🧩 Building a stock prediction system
-- 🎮 Developing a series of static web games for hobby
+- 🧩 Building a weather route app
 - 🎓 Improving my fluency in English
-
-Feel free to explore my repositories and connect!
