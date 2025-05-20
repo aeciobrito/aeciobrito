@@ -10,7 +10,7 @@ I'm a passionate **Software Developer** from Brazil, working with a diverse rang
 - 💡 Currently working on projects in web development and software architecture
 - 🎓 Teaching programming at Senac
 - 🎓 Improving my fluency in English
-- 
+
 ---
 
 ## 🛠️ Tech Stack
