@@ -9,7 +9,8 @@ I'm a passionate **Software Developer** from Brazil, working with a diverse rang
 - 🎮 Hobbyist gamer, chess player, and guitarist
 - 💡 Currently working on projects in web development and software architecture
 - 🎓 Teaching programming at Senac
-
+- 🎓 Improving my fluency in English
+- 
 ---
 
 ## 🛠️ Tech Stack
@@ -24,11 +25,3 @@ I'm a passionate **Software Developer** from Brazil, working with a diverse rang
 
 - [LinkedIn](https://www.linkedin.com/in/aeciobrito/)
 - Email: aeciobrito@gmail.com
-
----
-
-## 🌱 Current Focus
-
-I'm working on:
-- 🧩 Building a weather route app
-- 🎓 Improving my fluency in English
