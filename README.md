@@ -1,21 +1,12 @@
-# Hi there! 👋 I'm Aecio Brito
+# Hello there! I'm Aecio Brito
 
-I'm a passionate **Software Developer** from Brazil, working with a diverse range of technologies including C#/.NET, Angular(HTML, CSS, JavaScript and TypeScript), Java/Spring, SQL, and Python. I'm constantly learning and refining my skills to grow in my career and reach my goals, including becoming a software architect and building impactful projects.
-
----
-
-## 🚀 About Me
-
-- 🎮 Hobbyist gamer, chess player, and guitarist
-- 💡 Currently working on projects in web development and software architecture
-- 🎓 Teaching programming at Senac
-- 🎓 Improving my fluency in English
+I'm a passionate **Software Developer** from Brazil, working with a diverse range of technologies including C#/.NET, Angular(HTML, CSS, JavaScript and TypeScript), Java/Spring, SQL, and Python. I'm constantly learning and refining my skills to grow in my career and reach my goals.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C#, Java, JavaScript, Python, SQL
+- **Languages**: C#, Python, Java, JavaScript, SQL
 - **Frameworks**: .NET, Angular, Java Spring
 - **Tools & Platforms**: Git, Docker, Azure, Linux and Unity3D
 
